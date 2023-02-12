@@ -15,6 +15,6 @@ document.getElementById("btn").addEventListener(
     "click",
     getColor
 )
-console.log("vishal")
+
 // init call
 getColor();
